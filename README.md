@@ -24,6 +24,7 @@ Helps nurseries reduce first-time plant owner failures by analyzing plant care d
 ► Visualized plant care patterns and toxicity in Tableau dahsboard.
 
 ---
+🌱 Visualization & Reports
 
  📍 Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/alana.henry1701/viz/PlantResilienceProject/Dashboard1)
  
@@ -48,3 +49,4 @@ Helps nurseries reduce first-time plant owner failures by analyzing plant care d
 ► Excel
 
 ► Tableau
+
