@@ -27,10 +27,24 @@ Helps nurseries reduce first-time plant owner failures by analyzing plant care d
 
  📍 Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/alana.henry1701/viz/PlantResilienceProject/Dashboard1)
  
- 📍 Reports:[Business Insights Report](Business_Insights_Report_Plant_Resilience_Project.pdf) |  [Technical Case Study]
+ 📍 Reports: [Business Insights Report](Business_Insights_Report_Plant_Resilience_Project.pdf) |  [Technical Case Study](Technical_Case_Study_Plant_Resilience_Project.pdf)
 
  ---
 
 🏋️ Skills
 
-Tableau, Data Cleaning, KPI Design, Exploratory Data Anlaysis,  Business Insights
+► Data Cleaning
+
+► Exploratory Data Analysis & Pattern Identification
+
+► Data Visualization with Tableau
+
+► Reporting & Documentation
+
+---
+
+⚙️ Tools
+
+► Excel
+
+► Tableau
