@@ -19,9 +19,12 @@ Helps nurseries reduce first-time plant owner failures by analyzing plant care d
 
 ► Standardized plant care data (water, light, routine) into difficulty tiers.
 
+► Removed duplicated feilds and applied conditional formatting to difficulty tiers.
+
 ► Identified multi-factor care challenge indicators for staff guidance.
 
 ► Visualized plant care patterns and toxicity in Tableau dahsboard.
+
 
 ---
 🌱 Visualization & Reports
