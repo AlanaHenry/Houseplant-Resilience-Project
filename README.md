@@ -5,6 +5,12 @@ Helps nurseries reduce first-time plant owner failures by analyzing plant care d
 
 ---
 
+• **The "Aha!" Moment:** Realizing that plant failure is rarely caused by one mistake. Instead, problems emerge from a breakdown across light, water, and routine, especially when expectations aren't clearly communicated.
+
+• **The Lawyer Win:** Flagged toxic plants; safety first, lawsuits later!
+
+---
+
 💡 Key Insights
 
 ► Nearly half of plants have multiple care challenges.
